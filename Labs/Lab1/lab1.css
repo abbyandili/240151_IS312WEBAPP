@@ -61,23 +61,23 @@ nav a:hover {
 main {
     grid-area: main;
     background-color: white;
-    padding: 20px;
+    padding: 25px;
 }
 
 /* Article inside main */
 article h1 {
-    margin-bottom: 10px;
+    margin-bottom: 12px;
 }
 
 article p {
-    line-height: 1.6;
+    line-height: 2;
 }
 
 /* Sidebar */
 aside {
     grid-area: aside;
     background-color: white;
-    padding: 20px;
+    padding: 25px;
 }
 
 /* Footer */
